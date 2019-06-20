@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ise/ise-shared/vgatest/top.ncd
+OUTFILE=/home/ise/ise-shared/vgatest/top.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=/home/ise/ise-shared/vgatest
+LICENSE=WebPack
+USER_INFO=211719792_0_0_611
